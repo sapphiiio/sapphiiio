@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sapphiiio
-- 👀 I’m interested in chemistry, books, socializing, etc 
-- 🌱 I’m currently learning python but i major in chemistry
-- 💞️ I’m looking to collaborate on currently nothing but see ya soon on some cool stuff ;)
-- 📫 How to reach me ,,, hmmm not sharing it yet
+
